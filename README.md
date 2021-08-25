@@ -1,5 +1,6 @@
 
 ### How To Use
-1. Make sure Chrome v92.0.4515.43 is installed on your computer and that your computer is a mac
-2. run `npm i`
-3. run `npm test`
+1. Make sure Chrome is installed on your computer.
+2. Download the latest [chromedriver](http://chromedriver.storage.googleapis.com/index.html) for your version of chrome and place it in `/driver` under the name `chromedriver`
+3. run `npm i`
+4. run `npm test`
