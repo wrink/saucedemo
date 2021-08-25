@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "export PATH=$PATH:$(pwd)/driver && jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrink/saucedemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrink/saucedemo/issues"
+  },
+  "homepage": "https://github.com/wrink/saucedemo#readme",
+  "description": ""
+}
